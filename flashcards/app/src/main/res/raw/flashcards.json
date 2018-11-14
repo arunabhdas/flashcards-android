@@ -1,0 +1,40 @@
+{
+  "flashcards": [
+    {
+      "question": "23 + 19",
+      "answer": "42"
+    },
+    {
+      "question": "7 * 11",
+      "answer": "77"
+    },
+    {
+      "question": "14 + 28",
+      "answer": "42"
+    },
+    {
+      "question": "54 - 7",
+      "answer": "47"
+    },
+    {
+      "question": "18 + 27",
+      "answer": "45"
+    },
+    {
+      "question": "31 + 12",
+      "answer": "43"
+    },
+    {
+      "question": "23 + 14",
+      "answer": "37"
+    },
+    {
+      "question": "78 - 34",
+      "answer": "44"
+    },
+    {
+      "question": "19 + 21",
+      "answer": "40"
+    }
+  ]
+}
